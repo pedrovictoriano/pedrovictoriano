@@ -24,7 +24,7 @@ Engenheiro de Computação e Analista de Sistemas na **GBPA**, consultoria de IA
 - 📐 **Do problema à proposta**: levantamento de requisitos, desenho de solução, estimativa técnica e UAT
 - 🧠 **Desenvolvimento assistido por IA**, com vários agentes em cadeia e gates de revisão, segurança e aprovação humana
 - 🛒 Fora do trabalho, mantenho um **sistema de gestão de e-commerce** integrado à API do Mercado Livre e uma **fábrica de software** de sites e demos
-- 🎓 Bacharel em Engenharia da Computação (UNISAL, 2026), com certificações em IA conversacional, integração e agentes de IA
+- 🎓 Bacharel em Engenharia da Computação (UNISAL, 2025), com certificações em IA conversacional, integração e agentes de IA
 - 🗣️ Português nativo · inglês intermediário
 
 ---
@@ -161,7 +161,7 @@ flowchart LR
 
 ## 🎓 Formação e certificações
 
-**Bacharelado em Engenharia da Computação** · Centro Universitário Salesiano de São Paulo (UNISAL) · 2021 – 2026
+**Bacharelado em Engenharia da Computação** · Centro Universitário Salesiano de São Paulo (UNISAL) · 2021 – 2025
 
 | Certificação | Emissor | Data |
 |---|---|---|
