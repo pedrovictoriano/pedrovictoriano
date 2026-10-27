@@ -181,6 +181,7 @@ flowchart LR
 ## 📫 Contato
 
 <p>
+  <a href="https://www.linkedin.com/in/pedro-victoriano-2b33b41a2/"><img src="https://img.shields.io/badge/LinkedIn-Pedro_Victoriano-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:pedrohvictoriano@gmail.com"><img src="https://img.shields.io/badge/E--mail-pedrohvictoriano%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
