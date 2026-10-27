@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=640&lines=Agentes+de+IA+conversacionais+no+Cognigy.AI;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%A3o+de+atendimento;Python+%C2%B7+Node.js+%C2%B7+SQL" alt="Agentes de IA conversacionais, integrações e automação de atendimento" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=640&lines=Agentes+de+IA+conversacionais;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%A3o+de+atendimento;Python+%C2%B7+Node.js+%C2%B7+SQL" alt="Agentes de IA conversacionais, integrações e automação de atendimento" />
 </p>
 
 <p align="center">
