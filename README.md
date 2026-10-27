@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=640&lines=Agentes+de+IA+conversacionais+no+Cognigy.AI;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%A3o+de+atendimento;Desenvolvimento+assistido+por+IA+com+Claude+Code;Python+%C2%B7+Node.js+%C2%B7+SQL" alt="Agentes de IA, integrações e desenvolvimento assistido por IA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=640&lines=Agentes+de+IA+conversacionais+no+Cognigy.AI;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%A3o+de+atendimento;Python+%C2%B7+Node.js+%C2%B7+SQL" alt="Agentes de IA conversacionais, integrações e automação de atendimento" />
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@
 
 ## 👋 Sobre mim
 
-Engenheiro de Computação e Analista de Sistemas na **GBPA**, consultoria de IA. Construo **agentes de IA conversacionais** para clientes corporativos no **Cognigy.AI**, com respostas restritas à base de conhecimento, guardrails de LLM e avaliação automatizada por simulador e AI Judge. De 2022 a 2026 integrei sistemas e automatizei fluxos de atendimento com APIs REST, Azure Logic Apps, Workato e Genesys Cloud.
+Engenheiro de Computação e Analista de Sistemas na **GBPA**, consultoria de IA. Trabalho com **IA aplicada ao atendimento e à automação de processos** em empresas: entender como a operação funciona hoje, desenhar a solução e colocar no ar agentes de IA, integrações e automações que resolvem o problema de ponta a ponta. Desde 2022 atuo com atendimento digital, primeiro integrando sistemas e automatizando fluxos, hoje construindo agentes de IA conversacionais para clientes corporativos.
 
-- 🤖 Construo agentes de IA de **voz e texto** no Cognigy.AI: AI Agents, Flows, Knowledge e Simulator
-- 🔌 Integro sistemas com **APIs REST (OAuth), Workato, Azure Logic Apps, Genesys Cloud e Zendesk**
-- 🧪 Trato agente de IA como software: **plano de regressão, personas, AI Judge e métricas de conversa** antes do go-live
-- 🧠 Desenvolvo com **agentes de IA em cadeia no Claude Code**, com gates de revisão, segurança e aprovação humana
+- 🤖 **Agentes de IA conversacionais** de voz e texto, com respostas ancoradas na base de conhecimento e guardrails de LLM
+- 🔌 **Integração de sistemas e automação de processos**: APIs REST, plataformas de integração, contact center e helpdesk
+- 🧪 **Qualidade de IA antes do go-live**: testes de regressão, simulação com personas, avaliação por AI Judge e métricas de conversa
+- 📐 **Do problema à proposta**: levantamento de requisitos, desenho de solução, estimativa técnica e UAT
+- 🧠 **Desenvolvimento assistido por IA**, com vários agentes em cadeia e gates de revisão, segurança e aprovação humana
 - 🛒 Fora do trabalho, mantenho um **sistema de gestão de e-commerce** integrado à API do Mercado Livre e uma **fábrica de software** de sites e demos
-- 🎓 Bacharel em Engenharia da Computação (UNISAL, 2026) e **NiCE Certified AI Engineer**
+- 🎓 Bacharel em Engenharia da Computação (UNISAL, 2026), com certificações em IA conversacional, integração e agentes de IA
 - 🗣️ Português nativo · inglês intermediário
 
 ---
